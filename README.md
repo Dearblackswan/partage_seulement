@@ -6,9 +6,9 @@ Je vous propose d'utiliser ce répertoire pour partager nos super links tuto and
 
 Les links sont à ajouter ici dans le fichier Readme.md .
 
-Les videos dans le dossier videos.
+Les videos dans le dossier videos (à créer au besoin).
 
-Les bouquins dans le dossier ebooks.
+Les bouquins dans le dossier ebooks (à créer au besoin).
 
 
 # Javascript Unit Testing
