@@ -1,4 +1,4 @@
-# partage_seulement
+# Partage seulement
 
 Hello les smarties.
 
