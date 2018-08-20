@@ -17,7 +17,7 @@ Documentation du framework de tests unitaires Jasmine : https://jasmine.github.i
 
 Documentation du framework de moq Typemoq : https://github.com/florinn/typemoq
 
-Les 10 ommandements du test unitaire : https://blog.xebia.fr/2008/04/11/les-10-commandements-des-tests-unitaires
+Les 10 commandements du test unitaire : https://blog.xebia.fr/2008/04/11/les-10-commandements-des-tests-unitaires
 
 # Redux
 
