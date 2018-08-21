@@ -19,13 +19,13 @@ Documentation du framework de moq Typemoq : https://github.com/florinn/typemoq
 
 Les 10 commandements du test unitaire : https://blog.xebia.fr/2008/04/11/les-10-commandements-des-tests-unitaires
 
-# Javascript Design Pattern
+# Javascript Design Patterns
 
-Observer pattern en JS - Les design patterns en Javascript - Ép.1 : https://www.youtube.com/watch?v=K505cTygKgo
+Observer pattern en JS - ép.1 : https://www.youtube.com/watch?v=K505cTygKgo
 
-Générateurs en JS - Les design patterns ép. 2 : https://www.youtube.com/watch?v=cAu0Y8DIxzA
+Générateurs en JS - ép. 2 : https://www.youtube.com/watch?v=cAu0Y8DIxzA
 
-Singleton en JS - Les design patterns en JS, ép. 3 : https://www.youtube.com/watch?v=IDyrnwLYff8 
+Singleton en JS - ép. 3 : https://www.youtube.com/watch?v=IDyrnwLYff8 
 
 # Redux
 
