@@ -1,4 +1,4 @@
-# Partage seulement
+# Partage seulement : 
 
 Hello les smarties.
 
@@ -11,7 +11,11 @@ Les videos dans le dossier videos (à créer au besoin).
 Les bouquins dans le dossier ebooks (à créer au besoin).
 
 
-# Javascript Unit Testing
+# Javascript :
+
+
+## Unit Testing
+
 
 Documentation du framework de tests unitaires Jasmine : https://jasmine.github.io/2.0/introduction.html
 
@@ -19,7 +23,9 @@ Documentation du framework de moq Typemoq : https://github.com/florinn/typemoq
 
 Les 10 commandements du test unitaire : https://blog.xebia.fr/2008/04/11/les-10-commandements-des-tests-unitaires
 
-# Javascript Design Patterns
+
+## Design Patterns
+
 
 Observer pattern en JS - ép.1 : https://www.youtube.com/watch?v=K505cTygKgo
 
@@ -27,11 +33,20 @@ Générateurs en JS - ép. 2 : https://www.youtube.com/watch?v=cAu0Y8DIxzA
 
 Singleton en JS - ép. 3 : https://www.youtube.com/watch?v=IDyrnwLYff8 
 
-# Redux
+
+## Programmation fonctionnelle 
+
+
+Introduction : https://www.youtube.com/watch?v=jSNPCQbKIOg
+
+
+## Redux
 
 Vidéo interessante sur l'utilité de Redux dans les applications front : https://www.youtube.com/watch?v=HbozNzOAMfk
 
-# Bonnes pratiques de développement
+
+
+# Bonnes pratiques de développement : 
 
 Article sur Solid & Stupid principles : https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code
 
